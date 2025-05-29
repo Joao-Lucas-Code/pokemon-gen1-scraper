@@ -42,3 +42,22 @@ Certifique-se de ter o Python instalado em sua máquina (versão 3.x recomendada
 Para executar o scraper e coletar os nomes dos Pokémon, utilize o seguinte comando no terminal:
 ```bash
 python main.py
+```
+Após a execução bem-sucedida, um arquivo chamado pokedex_gen1.xlsx será criado na raiz do projeto, contendo a lista dos nomes dos Pokémon da primeira geração.
+
+🤝 Contribuição
+Contribuições são bem-vindas! Se você quiser melhorar este projeto, sinta-se à vontade para:
+
+Fazer um "fork" do repositório.
+Criar uma nova "branch" (git checkout -b feature/NomeDaSuaFeature).
+Fazer suas alterações e "commitar" (git commit -m 'Adiciona nova feature').
+Fazer um "push" para a "branch" (git push origin feature/NomeDaSuaFeature).
+Abrir um "Pull Request".
+
+✨ Agradecimentos
+Gostaria de expressar meu agradecimento ao Renan Zanello (https://www.linkedin.com/in/renan-zanollo/) pela inspiração e pela sugestão inicial de utilizar web scraping com XPath e Pandas para criar um "banco de dados" em Excel. A ideia dele foi o catalisador para este projeto!
+
+📞 Contato
+João Lucas - https://github.com/Joao-Lucas-Code
+https://www.linkedin.com/in/joaogomes6/
+joao.lgomes1166@gmail.com
